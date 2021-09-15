@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T09:22:41.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="_WP0vfhzEZJG5WY45Ofg" version="15.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T10:42:01.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="KodqvJ_Y-JGAM7HNXvXO" version="15.2.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2591" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -191,10 +191,10 @@
           <mxGeometry x="-651" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FRXhWbzq6gXqHkSagqiz-1545" value="数值直接量" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-932" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="-932" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FRXhWbzq6gXqHkSagqiz-1546" value="字符串直接量" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-932" y="584" width="120" height="40" as="geometry" />
+          <mxGeometry x="-932" y="563" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FRXhWbzq6gXqHkSagqiz-1560" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FRXhWbzq6gXqHkSagqiz-1548" target="FRXhWbzq6gXqHkSagqiz-1550" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -229,22 +229,22 @@
           <mxGeometry x="-932" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FRXhWbzq6gXqHkSagqiz-1550" value="空直接量" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-932" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="-932" y="414" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FRXhWbzq6gXqHkSagqiz-1551" value="布尔直接量" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-932" y="470" width="120" height="40" as="geometry" />
+          <mxGeometry x="-932" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FRXhWbzq6gXqHkSagqiz-1552" value="对象直接量" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-932" y="700" width="120" height="40" as="geometry" />
+          <mxGeometry x="-932" y="667" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FRXhWbzq6gXqHkSagqiz-1553" value="数组直接量" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-932" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="-932" y="727" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FRXhWbzq6gXqHkSagqiz-1554" value="正则表达式直接量" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-932" y="820" width="120" height="40" as="geometry" />
+          <mxGeometry x="-932" y="787" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FRXhWbzq6gXqHkSagqiz-1555" value="字符串模板直接量" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-932" y="644" width="120" height="40" as="geometry" />
+          <mxGeometry x="-932" y="611" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FRXhWbzq6gXqHkSagqiz-1569" value="变量名" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-932" y="340" width="120" height="40" as="geometry" />
@@ -295,6 +295,36 @@
         </mxCell>
         <mxCell id="hANE1AV5xjEtjiVcaVUv-1556" value="普通语句&lt;br&gt;/* 不响应预处理 */" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-644" y="1390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hANE1AV5xjEtjiVcaVUv-1562" value="值" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hANE1AV5xjEtjiVcaVUv-1563" value="方法" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hANE1AV5xjEtjiVcaVUv-1564" value="基础对象" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="610" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hANE1AV5xjEtjiVcaVUv-1565" value="Object" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="920" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hANE1AV5xjEtjiVcaVUv-1566" value="Function" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="890" y="830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hANE1AV5xjEtjiVcaVUv-1567" value="Boolean" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="820" y="930" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hANE1AV5xjEtjiVcaVUv-1568" value="Symbol" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="760" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hANE1AV5xjEtjiVcaVUv-1569" value="Infinity" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hANE1AV5xjEtjiVcaVUv-1570" value="NaN" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="770" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hANE1AV5xjEtjiVcaVUv-1571" value="undefined" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="760" y="610" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
