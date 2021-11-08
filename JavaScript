@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T03:30:53.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="sqrrcNXBL1X9U6gIDM9Q" version="15.7.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-08T03:32:02.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="dm4cVdiEAyVcbZev_SmV" version="15.7.0" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="JavaScript">
     <mxGraphModel dx="2374" dy="2251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -831,14 +831,14 @@
         <mxCell id="GoDKwaIf2rWBi-CwZtsr-1548" value="Manager&lt;br&gt;(店长)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="-1080" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GoDKwaIf2rWBi-CwZtsr-1553" value="Coach Leader&lt;br&gt;(教练组长)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="-900" width="120" height="80" as="geometry" />
+        <mxCell id="GoDKwaIf2rWBi-CwZtsr-1553" value="Team Leader&lt;br&gt;(教练组长)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-900" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GoDKwaIf2rWBi-CwZtsr-1554" value="Internal Coach&lt;br&gt;(内部教练)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="-900" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GoDKwaIf2rWBi-CwZtsr-1556" value="External Coach&lt;br&gt;(外部教练)" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-907" width="120" height="80" as="geometry" />
+          <mxGeometry x="30" y="-900" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
