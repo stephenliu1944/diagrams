@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T19:19:06.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ps5C2zqlimQa1y5komQY" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T19:33:59.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="rYHT3GKLKnFKcq-qthPR" version="15.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1205" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,15 +88,19 @@
             <mxPoint x="558.8781180597005" y="680.8720002922878" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tAiiJc-aSebKkIe9C8n4-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tAiiJc-aSebKkIe9C8n4-10" target="tAiiJc-aSebKkIe9C8n4-84">
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tAiiJc-aSebKkIe9C8n4-94" target="tAiiJc-aSebKkIe9C8n4-84">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="623.6374070842287" y="718.1827311986999" as="targetPoint" />
+            <mxPoint x="560.0036354299284" y="779.6640405077858" as="sourcePoint" />
+            <mxPoint x="794.4574070842286" y="714.4227311986999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tAiiJc-aSebKkIe9C8n4-83" value="&lt;span style=&quot;color: rgb(76 , 76 , 76) ; font-size: 14px ; text-align: left ; text-indent: 28px&quot;&gt;DNS智能解析, 返回距离最近的CDN服务&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAiiJc-aSebKkIe9C8n4-82">
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-83" value="&lt;span style=&quot;color: rgb(76 , 76 , 76) ; font-size: 14px ; text-align: left ; text-indent: 28px&quot;&gt;DNS智能解析, 根据用户地理位置&lt;br&gt;返回距离最近的CDN服务&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAiiJc-aSebKkIe9C8n4-82">
           <mxGeometry x="-0.3518" relative="1" as="geometry">
-            <mxPoint x="15" y="20" as="offset" />
+            <mxPoint x="46" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tAiiJc-aSebKkIe9C8n4-10" target="tAiiJc-aSebKkIe9C8n4-92">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAiiJc-aSebKkIe9C8n4-10" value="DNS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="500" width="120" height="80" as="geometry" />
@@ -147,15 +151,15 @@
         <mxCell id="tAiiJc-aSebKkIe9C8n4-60" value="Nginx" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1290" y="500" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tAiiJc-aSebKkIe9C8n4-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tAiiJc-aSebKkIe9C8n4-87" target="tAiiJc-aSebKkIe9C8n4-79">
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=1.028;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tAiiJc-aSebKkIe9C8n4-87" target="tAiiJc-aSebKkIe9C8n4-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="750" as="sourcePoint" />
-            <mxPoint x="855.9943861212928" y="900.5696668152277" as="targetPoint" />
+            <mxPoint x="890.8199999999999" y="746.24" as="sourcePoint" />
+            <mxPoint x="1026.8143861212927" y="896.8096668152277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tAiiJc-aSebKkIe9C8n4-85" value="否, 则通过CDN中心配置找到" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAiiJc-aSebKkIe9C8n4-75">
           <mxGeometry x="-0.2362" y="-1" relative="1" as="geometry">
-            <mxPoint x="17" y="-1" as="offset" />
+            <mxPoint x="24" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tAiiJc-aSebKkIe9C8n4-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tAiiJc-aSebKkIe9C8n4-79" target="tAiiJc-aSebKkIe9C8n4-1">
@@ -164,29 +168,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tAiiJc-aSebKkIe9C8n4-79" value="溯源地址&lt;br&gt;(域名/IP)" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1010" y="737.53" width="120" height="80" as="geometry" />
+          <mxGeometry x="1010" y="760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tAiiJc-aSebKkIe9C8n4-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tAiiJc-aSebKkIe9C8n4-84" target="tAiiJc-aSebKkIe9C8n4-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAiiJc-aSebKkIe9C8n4-84" value="CDN服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="732.53" width="120" height="80" as="geometry" />
+          <mxGeometry x="780.8199999999999" y="770" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tAiiJc-aSebKkIe9C8n4-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=1;exitX=0.519;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tAiiJc-aSebKkIe9C8n4-87" target="tAiiJc-aSebKkIe9C8n4-13">
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=1;exitX=0.012;exitY=0.486;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tAiiJc-aSebKkIe9C8n4-87" target="tAiiJc-aSebKkIe9C8n4-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="688" y="870" />
-              <mxPoint x="95" y="870" />
+              <mxPoint x="95" y="994" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tAiiJc-aSebKkIe9C8n4-91" value="是, 则直接返回资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAiiJc-aSebKkIe9C8n4-89">
           <mxGeometry x="-0.2143" y="3" relative="1" as="geometry">
-            <mxPoint x="232" y="-13" as="offset" />
+            <mxPoint x="313" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tAiiJc-aSebKkIe9C8n4-87" value="是否缓存资源&lt;br&gt;且未过期" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="727.53" width="150" height="90" as="geometry" />
+          <mxGeometry x="765.8199999999999" y="950" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-95" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tAiiJc-aSebKkIe9C8n4-92" target="tAiiJc-aSebKkIe9C8n4-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-92" value="CNAME" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-94" value="DNS&lt;br&gt;(全局负载均衡)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="780" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
