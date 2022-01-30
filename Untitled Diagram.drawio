@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T19:18:29.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="P4BDQJjATIvSHDwACZ-i" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T19:19:06.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ps5C2zqlimQa1y5komQY" version="15.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1205" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
             <mxPoint x="232" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tAiiJc-aSebKkIe9C8n4-87" value="是否缓存资源" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-87" value="是否缓存资源&lt;br&gt;且未过期" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="727.53" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
