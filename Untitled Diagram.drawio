@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T19:08:36.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="l2KpU40xpGanZVY7wO1X" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T19:10:30.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="O3Jns5cCC8vm5XaDQVes" version="15.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1205" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
             <mxPoint x="855.9943861212928" y="900.5696668152277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tAiiJc-aSebKkIe9C8n4-85" value="通过CDN配置找到" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAiiJc-aSebKkIe9C8n4-75">
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-85" value="通过CDN中心配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAiiJc-aSebKkIe9C8n4-75">
           <mxGeometry x="-0.2362" y="-1" relative="1" as="geometry">
             <mxPoint x="17" y="-1" as="offset" />
           </mxGeometry>
