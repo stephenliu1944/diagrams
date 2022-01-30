@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T19:38:45.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="qcUOVfiCtMLff99L5qKi" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T19:40:11.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="aI4Nuv0bdeAkCjp4WZTI" version="15.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1205" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,9 +158,9 @@
             <mxPoint x="1026.8143861212927" y="896.8096668152277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tAiiJc-aSebKkIe9C8n4-85" value="否, 则通过CDN中心配置找到" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAiiJc-aSebKkIe9C8n4-75">
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-85" value="否, 通过 CDN 配置中心找到" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAiiJc-aSebKkIe9C8n4-75">
           <mxGeometry x="-0.2362" y="-1" relative="1" as="geometry">
-            <mxPoint x="24" y="-16" as="offset" />
+            <mxPoint x="17" y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tAiiJc-aSebKkIe9C8n4-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tAiiJc-aSebKkIe9C8n4-79" target="tAiiJc-aSebKkIe9C8n4-1">
@@ -184,9 +184,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tAiiJc-aSebKkIe9C8n4-91" value="是, 则直接返回资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAiiJc-aSebKkIe9C8n4-89">
+        <mxCell id="tAiiJc-aSebKkIe9C8n4-91" value="是, 直接返回资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAiiJc-aSebKkIe9C8n4-89">
           <mxGeometry x="-0.2143" y="3" relative="1" as="geometry">
-            <mxPoint x="313" y="-2" as="offset" />
+            <mxPoint x="293" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tAiiJc-aSebKkIe9C8n4-87" value="是否缓存未过期资源&lt;br&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
